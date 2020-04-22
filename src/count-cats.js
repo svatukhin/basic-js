@@ -1,4 +1,4 @@
-module.exports = function countCats(/* matrix */) {
-  throw 'Not implemented';
-  // remove line with error and write your code here
+module.exports = function countCats(backyard) {
+  throw 'Not implasdadademented';
+  // remove line with error and write your code her sdasd
 };
